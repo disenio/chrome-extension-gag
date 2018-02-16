@@ -1,0 +1,1 @@
+@keyframes spinner {from {transform: rotate(0deg)} to {transform:rotate(360deg)}} body{animation:spinner 1s infinite linear}
